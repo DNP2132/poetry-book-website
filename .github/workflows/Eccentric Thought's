@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Devon N. Polk - Eccentric Thoughts</title>
+<style>
+    body {
+        background-color: black;
+        color: white;
+        font-family: serif;
+    }
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+    h1, h2 {
+        color: red;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+    <h1>Devon N. Polk - Eccentric Thoughts</h1>
+    <p>Welcome to the webpage for my first published poetry book, "Eccentric Thoughts." Available on <a href="https://www.amazon.com" target="_blank">Amazon</a> for $25.</p>
+    
+    <h2>Bio</h2>
+    <p>I am Devon N. Polk, an aspiring poet who loves to express thoughts and emotions through words.</p>
+    
+    <h2>Blog</h2>
+    <p>Stay tuned for my latest poems and musings on life.</p>
+    
+    <h2>Contact</h2>
+    <form action="your-email-address@example.com" method="post">
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name"><br>
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email"><br>
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message"></textarea><br>
+        <input type="submit" value="Submit">
+    </form>
+    
+    <h2>Social Media</h2>
+    <p>Connect with me on social media:</p>
+    <a href="https://www.facebook.com" target="_blank">Facebook</a><br>
+    <a href="https://www.twitter.com" target="_blank">Twitter</a><br>
+    <a href="https://www.instagram.com" target="_blank">Instagram</a>
+</div>
+</body>
+</html>
